@@ -2,3 +2,5 @@ Riansy Plan To 2021
 - Mastered CSS3
 - Mastered JavaScript
 - Learning to use the framework
+- Learning PHP Basic
+- Create a commercial website with full features
